@@ -1,4 +1,4 @@
-# dig-command-linux
+# DIG Linux commnad cheat sheet
 
 <h2>All DNS records</h2>
 
